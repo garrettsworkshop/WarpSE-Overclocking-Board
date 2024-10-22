@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/zane/Library/Mobile Documents/com~apple~CloudDocs/Repos/WarpSE-Overclocking-Board/WarpSE-Overclocking-Board.kicad_sch</source>
+    <date>2024-10-22T05:21:47-0400</date>
+    <tool>Eeschema 8.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>WarpSE-OC (GW4411A)</title>
+        <company>Garrett's Workshop</company>
+        <rev>1.0</rev>
+        <date>2024-10-19</date>
+        <source>WarpSE-Overclocking-Board.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>2u2</value>
+      <footprint>stdpads:C_0603</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">c23630</field>
+        <field name="Footprint">stdpads:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC Part" value="c23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95abdf7b-5cda-4364-997d-c974679d843b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>2u2</value>
+      <footprint>stdpads:C_0603</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">c23630</field>
+        <field name="Footprint">stdpads:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC Part" value="c23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6877638-8075-4916-a3fc-2707f132a414</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>2u2</value>
+      <footprint>stdpads:C_0603</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">c23630</field>
+        <field name="Footprint">stdpads:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC Part" value="c23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8572416-35b4-48df-b8e2-b83de32d6dc3</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>2u2</value>
+      <footprint>stdpads:C_0603</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">c23630</field>
+        <field name="Footprint">stdpads:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC Part" value="c23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>353c6638-d8a4-419c-ba95-3df3a9598bd1</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>2u2</value>
+      <footprint>stdpads:C_0603</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">c23630</field>
+        <field name="Footprint">stdpads:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC Part" value="c23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38ca12bc-7862-404c-8e5d-e86e88070d78</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>2u2</value>
+      <footprint>stdpads:C_0603</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">c23630</field>
+        <field name="Footprint">stdpads:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC Part" value="c23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea268301-97b1-4262-9f09-89b6b45daf86</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>2u2</value>
+      <footprint>stdpads:C_0603</footprint>
+      <description>Unpolarized capacitor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">c23630</field>
+        <field name="Footprint">stdpads:C_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC Part" value="c23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f3756bb-560e-4288-897f-688cfc570cfd</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>~</value>
+      <footprint>stdpads:PasteHole_1.152mm_NPTH</footprint>
+      <fields>
+        <field name="LCSC Part"/>
+        <field name="Footprint">stdpads:PasteHole_1.152mm_NPTH</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="LCSC Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b21233</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>~</value>
+      <footprint>stdpads:PasteHole_1.152mm_NPTH</footprint>
+      <fields>
+        <field name="LCSC Part"/>
+        <field name="Footprint">stdpads:PasteHole_1.152mm_NPTH</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="LCSC Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b21234</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>~</value>
+      <footprint>stdpads:PasteHole_1.152mm_NPTH</footprint>
+      <fields>
+        <field name="LCSC Part"/>
+        <field name="Footprint">stdpads:PasteHole_1.152mm_NPTH</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="LCSC Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b21235</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>DBG</value>
+      <footprint>stdpads:PinHeader_2x06_P2.00mm_Vertical</footprint>
+      <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="LCSC Part"/>
+        <field name="Footprint">stdpads:PinHeader_2x06_P2.00mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x06_Odd_Even" description="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC Part" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6114e6e0-0775-4022-b2c3-8bbfc99812c7</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>47</value>
+      <footprint>stdpads:R_0603</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">C23182</field>
+        <field name="Footprint">stdpads:R_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC Part" value="C23182"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cf0f073-f127-423a-85a7-c3cea9358b7d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>47</value>
+      <footprint>stdpads:R_0603</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">C23182</field>
+        <field name="Footprint">stdpads:R_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC Part" value="C23182"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4f8b0e4-6206-407b-917f-29bb467bc9f5</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>47</value>
+      <footprint>stdpads:R_0603</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">C23182</field>
+        <field name="Footprint">stdpads:R_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC Part" value="C23182"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66fe39c8-21f0-4e92-9070-46588bb85b00</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>47</value>
+      <footprint>stdpads:R_0603</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">C23182</field>
+        <field name="Footprint">stdpads:R_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC Part" value="C23182"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c39cacc-1f52-48f5-b628-8f6b5597167a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>3k3</value>
+      <footprint>stdpads:R_0603</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">C22978</field>
+        <field name="Footprint">stdpads:R_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC Part" value="C22978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d87bc15b-878e-42e9-8618-2242ccb9c64b</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>3k3</value>
+      <footprint>stdpads:R_0603</footprint>
+      <description>Resistor, small symbol</description>
+      <fields>
+        <field name="LCSC Part">C22978</field>
+        <field name="Footprint">stdpads:R_0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC Part" value="C22978"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c9820b1-a8fb-48f9-9d67-6abe71293e48</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>CFG</value>
+      <footprint>stdpads:SW_DIP_SPSTx05_Slide_DSHP05TS_P1.27mm</footprint>
+      <description>5x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+      <fields>
+        <field name="LCSC Part">C2884836</field>
+        <field name="Footprint">stdpads:SW_DIP_SPSTx05_Slide_DSHP05TS_P1.27mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">5x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</field>
+      </fields>
+      <libsource lib="Switch" part="SW_DIP_x05" description="5x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <property name="LCSC Part" value="C2884836"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <property name="ki_keywords" value="dip switch"/>
+      <property name="ki_fp_filters" value="SW?DIP?x5*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>087528b9-9090-4a2a-8c1d-9c8d984c1390</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>30M</value>
+      <footprint>stdpads:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <fields>
+        <field name="LCSC Part">C5179973</field>
+        <field name="Footprint">stdpads:Crystal_SMD_3225-4Pin_3.2x2.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="GW_Logic" part="Oscillator_4P" description=""/>
+      <property name="LCSC Part" value="C5179973"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45b8ec1b-2f95-4e83-87ec-a98a9ff50ba3</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>32M</value>
+      <footprint>stdpads:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <fields>
+        <field name="LCSC Part">C5179975</field>
+        <field name="Footprint">stdpads:Crystal_SMD_3225-4Pin_3.2x2.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="GW_Logic" part="Oscillator_4P" description=""/>
+      <property name="LCSC Part" value="C5179975"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63d37d56-1b52-4a7c-8144-0b76b1fc173f</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>36M</value>
+      <footprint>stdpads:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <fields>
+        <field name="LCSC Part">C5179977</field>
+        <field name="Footprint">stdpads:Crystal_SMD_3225-4Pin_3.2x2.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="GW_Logic" part="Oscillator_4P" description=""/>
+      <property name="LCSC Part" value="C5179977"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1d31457-c0e3-4d6b-9c82-08c806ed7f90</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>74LVC1G08GW</value>
+      <footprint>stdpads:SOT-353</footprint>
+      <fields>
+        <field name="LCSC Part">C12512</field>
+        <field name="Footprint">stdpads:SOT-353</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="GW_Logic" part="741G08GW" description=""/>
+      <property name="LCSC Part" value="C12512"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9899a1c-2dd9-48db-9caa-20cd3c480868</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>74LVC1G08GW</value>
+      <footprint>stdpads:SOT-353</footprint>
+      <fields>
+        <field name="LCSC Part">C12512</field>
+        <field name="Footprint">stdpads:SOT-353</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="GW_Logic" part="741G08GW" description=""/>
+      <property name="LCSC Part" value="C12512"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0e35f05-08d2-4be0-a54e-6135fd7d1cd9</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>74LVC1G86GW</value>
+      <footprint>stdpads:SOT-353</footprint>
+      <fields>
+        <field name="LCSC Part">C52350</field>
+        <field name="Footprint">stdpads:SOT-353</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="GW_Logic" part="741G86GW" description=""/>
+      <property name="LCSC Part" value="C52350"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d4e89fd-7b97-4f50-9c7c-779ae7e053f6</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>74LVC1G02GW</value>
+      <footprint>stdpads:SOT-353</footprint>
+      <fields>
+        <field name="LCSC Part">C546692</field>
+        <field name="Footprint">stdpads:SOT-353</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="GW_Logic" part="741G02GW" description=""/>
+      <property name="LCSC Part" value="C546692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ff127bf-c7d2-4a0a-944c-efef719b6834</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>XC6206PxxxMR</value>
+      <footprint>stdpads:SOT-23</footprint>
+      <fields>
+        <field name="LCSC Part">C5446</field>
+        <field name="Footprint">stdpads:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="GW_Power" part="XC6206PxxxMR" description=""/>
+      <property name="LCSC Part" value="C5446"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WarpSE-Overclocking-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18c7def3-a4ce-4497-b36a-17bf3e7b4324</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_02x06_Odd_Even">
+      <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x06_Odd_Even</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="GW_Logic" part="741G02GW">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">741G02GW</field>
+        <field name="Footprint">stdpads:SOT-353</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="A" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="Vcc" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="GW_Logic" part="741G08GW">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">741G08GW</field>
+        <field name="Footprint">stdpads:SOT-353</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="input"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="Vcc" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="GW_Logic" part="741G86GW">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">741G86GW</field>
+        <field name="Footprint">stdpads:SOT-353</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="input"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="Vcc" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="GW_Logic" part="Oscillator_4P">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Oscillator_4P</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Output" type="output"/>
+        <pin num="4" name="Vdd" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="GW_Power" part="XC6206PxxxMR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XC6206PxxxMR</field>
+        <field name="Footprint">stdpads:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="Vout" type="power_out"/>
+        <pin num="3" name="Vin" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+    </libpart>
+    <libpart lib="Switch" part="SW_DIP_x05">
+      <description>5x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SW?DIP?x5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DIP_x05</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">5x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="GW_Logic">
+      <uri>/Users/zane/Library/Mobile Documents/com~apple~CloudDocs/Repos/WarpSE-Overclocking-Board/../../GW_Parts/GW_Logic.kicad_sym</uri>
+    </library>
+    <library logical="GW_Power">
+      <uri>/Users/zane/Library/Mobile Documents/com~apple~CloudDocs/Repos/WarpSE-Overclocking-Board/../../GW_Parts/GW_Power.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="Vdd" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="Vdd" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="Vdd" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="Vcc" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="Vcc" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="Vcc" pintype="power_in"/>
+      <node ref="U7" pin="5" pinfunction="Vcc" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="Vout" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="Vin" pintype="power_in"/>
+    </net>
+    <net code="3" name="/CLK">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="4" name="/CLKIN">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/CLKSEL0">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="U6" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="U7" pin="2" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="6" name="/CLKSEL1">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="A" pintype="input"/>
+      <node ref="U6" pin="1" pinfunction="A" pintype="input"/>
+      <node ref="U7" pin="1" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="7" name="/DBG0_~{ROMWS}">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="SW1" pin="4" pintype="passive"/>
+    </net>
+    <net code="8" name="/DBG1_~{RAMWS}">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="SW1" pin="3" pintype="passive"/>
+    </net>
+    <net code="9" name="/DBG2_GA20">
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="10" name="/DBG3_GA21">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="11" name="/DBG4_~{IOWS}">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="SW1" pin="5" pintype="passive"/>
+    </net>
+    <net code="12" name="/DBG5_GTS_GOE">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="13" name="/EN30">
+      <node ref="U1" pin="1" pinfunction="EN" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="Y" pintype="output"/>
+    </net>
+    <net code="14" name="/EN32">
+      <node ref="U2" pin="1" pinfunction="EN" pintype="input"/>
+      <node ref="U6" pin="4" pinfunction="Y" pintype="output"/>
+    </net>
+    <net code="15" name="/EN36">
+      <node ref="U3" pin="1" pinfunction="EN" pintype="input"/>
+      <node ref="U7" pin="4" pinfunction="Y" pintype="output"/>
+    </net>
+    <net code="16" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="SW1" pin="10" pintype="passive"/>
+      <node ref="SW1" pin="6" pintype="passive"/>
+      <node ref="SW1" pin="7" pintype="passive"/>
+      <node ref="SW1" pin="8" pintype="passive"/>
+      <node ref="SW1" pin="9" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="A" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="17" name="Net-(U1-Output)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="Output" pintype="output"/>
+    </net>
+    <net code="18" name="Net-(U2-Output)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="Output" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(U3-Output)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="Output" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(U4-Y)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="Y" pintype="output"/>
+    </net>
+  </nets>
+</export>
