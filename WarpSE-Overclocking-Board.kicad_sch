@@ -3,10 +3,10 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "a5be2cb8-c68d-4180-8412-69a6b4c5b1d4")
-	(paper "A4")
+	(paper "USLetter")
 	(title_block
-		(title "WarpSE-OC (GW4411A)")
-		(date "2024-10-19")
+		(title "WarpSE-OC (GW4490A)")
+		(date "2025-01-05")
 		(rev "1.0")
 		(company "Garrett's Workshop")
 	)
@@ -3245,7 +3245,7 @@
 		)
 		(uuid "7f708e13-c6b3-438f-bf38-09959afae6d8")
 	)
-	(label "EN32"
+	(label "EN33"
 		(at 176.53 83.82 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3268,13 +3268,13 @@
 		(uuid "a1d839db-c88d-47fa-9df0-f34391c18167")
 	)
 	(label "DBG0_~{ROMWS}"
-		(at 106.68 170.18 0)
+		(at 93.98 170.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "a82e0af8-dc21-48b7-8598-0d1077b61e00")
 	)
@@ -3400,13 +3400,13 @@
 		(uuid "fb5ee73c-6d3d-4b2a-9e26-05d8464c0af3")
 	)
 	(label "DBG1_~{RAMWS}"
-		(at 93.98 170.18 180)
+		(at 106.68 170.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "fef47cdb-ea28-4f20-9fbc-6ddeafa473f9")
 	)
@@ -4017,7 +4017,7 @@
 				)
 			)
 		)
-		(property "Value" "XC6206PxxxMR"
+		(property "Value" "XC6206P332MR"
 			(at 41.91 104.14 0)
 			(effects
 				(font
@@ -5207,7 +5207,7 @@
 				)
 			)
 		)
-		(property "Value" "32M"
+		(property "Value" "33M"
 			(at 193.04 90.17 0)
 			(effects
 				(font

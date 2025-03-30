@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.5*
-G04 #@! TF.CreationDate,2024-10-22T05:21:46-04:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*
+G04 #@! TF.CreationDate,2025-01-09T21:15:21-05:00*
 G04 #@! TF.ProjectId,WarpSE-Overclocking-Board,57617270-5345-42d4-9f76-6572636c6f63,1.0*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.5) date 2024-10-22 05:21:46*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2025-01-09 21:15:21*
 %MOMM*%
 %LPD*%
 G01*
@@ -81,8 +81,8 @@ X98800000Y-127850000D03*
 X98800000Y-126150000D03*
 X96600000Y-126150000D03*
 D16*
-X105650000Y-114400000D03*
-X104150000Y-114400000D03*
+X105650000Y-114300000D03*
+X104150000Y-114300000D03*
 D15*
 X94600000Y-126150000D03*
 X94600000Y-127650000D03*

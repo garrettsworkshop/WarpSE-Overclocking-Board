@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>/Users/zane/Library/Mobile Documents/com~apple~CloudDocs/Repos/WarpSE-Overclocking-Board/WarpSE-Overclocking-Board.kicad_sch</source>
-    <date>2024-10-22T05:21:47-0400</date>
-    <tool>Eeschema 8.0.5</tool>
+    <date>2025-01-09T21:15:21-0500</date>
+    <tool>Eeschema 8.0.6</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>WarpSE-OC (GW4411A)</title>
+        <title>WarpSE-OC (GW4490A)</title>
         <company>Garrett's Workshop</company>
         <rev>1.0</rev>
-        <date>2024-10-19</date>
+        <date>2025-01-05</date>
         <source>WarpSE-Overclocking-Board.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -380,7 +380,7 @@
       <tstamps>45b8ec1b-2f95-4e83-87ec-a98a9ff50ba3</tstamps>
     </comp>
     <comp ref="U2">
-      <value>32M</value>
+      <value>33M</value>
       <footprint>stdpads:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <fields>
         <field name="LCSC Part">C5179975</field>
@@ -476,7 +476,7 @@
       <tstamps>1ff127bf-c7d2-4a0a-944c-efef719b6834</tstamps>
     </comp>
     <comp ref="U8">
-      <value>XC6206PxxxMR</value>
+      <value>XC6206P332MR</value>
       <footprint>stdpads:SOT-23</footprint>
       <fields>
         <field name="LCSC Part">C5446</field>
@@ -744,11 +744,11 @@
       <node ref="U7" pin="1" pinfunction="B" pintype="input"/>
     </net>
     <net code="7" name="/DBG0_~{ROMWS}">
-      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="SW1" pin="4" pintype="passive"/>
     </net>
     <net code="8" name="/DBG1_~{RAMWS}">
-      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="SW1" pin="3" pintype="passive"/>
     </net>
     <net code="9" name="/DBG2_GA20">
@@ -768,7 +768,7 @@
       <node ref="U1" pin="1" pinfunction="EN" pintype="input"/>
       <node ref="U5" pin="4" pinfunction="Y" pintype="output"/>
     </net>
-    <net code="14" name="/EN32">
+    <net code="14" name="/EN33">
       <node ref="U2" pin="1" pinfunction="EN" pintype="input"/>
       <node ref="U6" pin="4" pinfunction="Y" pintype="output"/>
     </net>
